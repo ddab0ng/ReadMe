@@ -1,7 +1,7 @@
-# ITTY_official
+# Ddab0ong
 # http://itty-kr.site/
 
-# 💻 요즘 개발자 커뮤니티 ITTY 잇티
+# 💻 따다봉
 ![image](https://github.com/ITTYofficial/ITTY/assets/134522033/486e6e4e-afbf-4367-a16a-7c6c3177b64f)
 
 ### **📅 프로젝트 기간**
