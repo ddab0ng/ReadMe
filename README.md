@@ -23,13 +23,13 @@
 - 데이터베이스: Mongo DB
 - 주요 기능: 
             1) 채팅 로그 관리: 사용자가 LLM과 소통시 주고 받은 대화의 로그 기록 <br/>
-            2) sse 중계: RAG 서버와 Front 서버를 Server Sent Event로 중계하여 임베딩 진척사항 및 실시간 채팅 구현
-            3) AOP 기반 에러 코드 및 로그 관리: 관점지향을 통해 로그관리와 Client단 요청-응답 관리
+            2) sse 중계: RAG 서버와 Front 서버를 Server Sent Event로 중계하여 임베딩 진척사항 및 실시간 채팅 구현<br/>
+            3) AOP 기반 에러 코드 및 로그 관리: 관점지향을 통해 로그관리와 Client단 요청-응답 관리<br/>
             4) API key 생성 및 sha256암호화 진행: 사용자의 API 요청 header에 API 암호화된 key를 확인하고 암호화된 key를 통해 사용자 정보를 파악
-            5) 블랙 리스트 관리: 동 접속자가 반복적으로 같은 요청을 할시 블랙리스트에 올려 1일간 사용금지 조치
-            -> 회원가입 통한 회원 정보 없이 사용자의 IP와 user agent 정보 통한 중복 처리 알고리즘 개발   
-            6) RAG API : Embeding, Retriever, Vector Store delete 등 RAG 관련 요청 관리
-            7) LLM streaming Handler: 하나의 API로 여러 LLM에 요청을 보내고 스트리밍으로 응답 (LLM 통합관리)  
+            5) 블랙 리스트 관리: 동 접속자가 반복적으로 같은 요청을 할시 블랙리스트에 올려 1일간 사용금지 조치<br/>
+            -> 회원가입 통한 회원 정보 없이 사용자의 IP와 user agent 정보 통한 중복 처리 알고리즘 개발<br/>   
+            6) RAG API : Embeding, Retriever, Vector Store delete 등 RAG 관련 요청 관리<br/>
+            7) LLM streaming Handler: 하나의 API로 여러 LLM에 요청을 보내고 스트리밍으로 응답 (LLM 통합관리)<br/>  
 
 ### Frontend
 - 프레임워크: React
