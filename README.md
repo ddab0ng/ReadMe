@@ -99,8 +99,7 @@ Ddabong은 최신 RAG(Retrieval-Augmented Generation) 기술을 활용한 고성
    - 답변 근거의 시각적 표시
 
 ## 시스템 아키텍처
-
-[시스템 아키텍처 다이어그램]
+<img width="1131" alt="process" src="https://github.com/user-attachments/assets/35880c14-ed25-4d95-a056-603fc34cd782" />
 
 ## 배포 환경
 
