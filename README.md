@@ -101,7 +101,6 @@ Ddabong은 최신 RAG(Retrieval-Augmented Generation) 기술을 활용한 고성
 ## 시스템 아키텍처
 <img width="1268" alt="process" src="https://github.com/user-attachments/assets/a8abcdeb-7d8a-45db-b073-24cd2ee07b3b" />
 
-
 ## 배포 환경
 
 - On-premise GPU 서버
@@ -134,22 +133,6 @@ Ddabong은 최신 RAG(Retrieval-Augmented Generation) 기술을 활용한 고성
 ### AI/ML
 - 추가 언어 모델 통합
 - 검색 알고리즘 최적화
-
-## 설치 및 실행 방법
-
-```bash
-# 저장소 복제
-git clone [repository URL]
-
-# 의존성 설치
-npm install
-
-# 개발 서버 실행
-npm run dev
-
-# 프로덕션 빌드
-npm run build
-```
 
 ## 문의
 
