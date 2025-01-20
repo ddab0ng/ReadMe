@@ -1,6 +1,8 @@
 # RAG 서비스 Ddabong
 
+![Image](https://github.com/user-attachments/assets/697c09ab-9f21-4a54-a346-42a97659562b)
 ![Image](https://github.com/user-attachments/assets/03221cb1-b0ec-4b14-9389-a5cf3a19bafe)
+![Image](https://github.com/user-attachments/assets/92e66bbd-2a35-43ed-9504-2ee9efa6b9c9)
 
 ## 프로젝트 소개
 
