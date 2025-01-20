@@ -1,5 +1,7 @@
 # RAG 서비스 Ddabong
 
+![Image](https://github.com/user-attachments/assets/03221cb1-b0ec-4b14-9389-a5cf3a19bafe)
+
 ## 프로젝트 소개
 
 Ddabong은 최신 RAG(Retrieval-Augmented Generation) 기술을 활용한 고성능 챗봇 서비스입니다. 다양한 언어 모델과 임베딩 기술을 통합하여 사용자의 질문에 대해 정확하고 신속한 답변을 제공합니다.
