@@ -95,6 +95,7 @@ Ddabong은 최신 RAG(Retrieval-Augmented Generation) 기술을 활용한 고성
    - 사용자 정의 가능한 청크 크기 및 오버랩
    - 맞춤형 검색 파라미터 설정
    - 앙상블 리트리버 옵션 지원
+       - 기본: Contextual Retriever, 옵션: BM25 기반 앙상블
 
 2. **하이라이트 기능**
    - 참조 문서 자동 하이라이팅
@@ -133,8 +134,8 @@ Ddabong은 최신 RAG(Retrieval-Augmented Generation) 기술을 활용한 고성
 - 사용자 인터페이스 개선
 
 ### AI/ML
-- 추가 언어 모델 통합
-- 검색 알고리즘 최적화
+- 추가 언어 모델 통합을 통한 응답 품질 향상
+- 임베딩 구조 및 리트리버 조합 개선을 통한 검색 정확도 최적화
 
 ## 문의
 
